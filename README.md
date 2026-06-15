@@ -4,7 +4,7 @@
 
 ### PROFILE
 
-[![Portfolio](https://jhjh1289.github.io/JHJH1289/)
+https://jhjh1289.github.io/JHJH1289/
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JHJH1289)
 
 ### What I Use
