@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0B0F17&text=JHJH1289&fontColor=5EEAD4&fontSize=36&desc=web%20developer%20portfolio&descColor=F8FAFC&descAlignY=72" alt="JHJH1289 profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0B0F17&text=JHJH1289&fontColor=5EEAD4&fontSize=36&desc=developer%20portfolio&descColor=F8FAFC&descAlignY=72" alt="JHJH1289 profile banner" />
 
 ### PROFILE
 
