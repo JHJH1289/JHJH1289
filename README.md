@@ -8,7 +8,6 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0F17?style=for-the-badge&logo=githubpages&logoColor=5EEAD4)](https://jhjh1289.github.io/JHJH1289/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JHJH1289)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JHJH1289)
 
 ### What I Use
 
