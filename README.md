@@ -1,61 +1,54 @@
-# 안녕하세요, 개발자 정재훈입니다.
+<div align="center">
 
-React를 중심으로 웹 프론트엔드를 학습하고 프로젝트로 구현하고 있습니다.  
-사용자가 자연스럽게 이해할 수 있는 화면, 읽기 쉬운 코드, 꾸준한 기록을 중요하게 생각합니다.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0B0F17&text=JHJH1289&fontColor=5EEAD4&fontSize=36&desc=web%20developer%20portfolio&descColor=F8FAFC&descAlignY=72" alt="JHJH1289 profile banner" />
 
-## Tech Stack
+### PROFILE
 
-**Frontend**  
-React, JavaScript, HTML5, CSS3
+[![Portfolio](https://img.shields.io/badge/WEBSITE-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JHJH1289/Profile)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JHJH1289)
 
-**Backend**  
-Java, Spring, Node.js, REST API
+### What I Use
 
-**Database**  
-Oracle, PostgreSQL, JPA
+#### Frontend
 
-## Projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-### [jdrive](https://github.com/JHJH1289/jhdrve)
+#### Backend
 
-드라이브 환경에서 필요한 기능을 설계하고 구현한 프로젝트입니다.
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![REST API](https://img.shields.io/badge/REST_API-374151?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-- Java, Spring, JPA, PostgreSQL, JWT
-- React, Vite, Cloudflare
-- 사진 업로드, 폴더 관리, 공유 링크, 휴지통, 태그 편집 기능
+#### Database
 
-### [travelog](https://github.com/JHJH1289/PKNU_2026_toyProject2)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-374151?style=for-the-badge)
 
-여행 기록을 중심으로 화면 구성과 사용자 흐름을 구현한 프로젝트입니다.
+#### AI & Automation
 
-- React, Vite, JavaScript, Tailwind
-- Spring, Oracle, Ollama
-- 여행 피드, 지도 기반 경로 구성, AI 여행 일정 생성 기능
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 
-### [Auto_Excel](https://github.com/JHJH1289/Auto_Excel)
+### Tools
 
-반복 업무를 줄이기 위해 데이터를 다루고 자동화한 프로젝트입니다.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- Python
-- 문서 및 데이터 처리 작업 자동화
+### Featured Repositories
 
-### [Union-Project](https://github.com/JHJH1289/Union-Project)
+[![jdrive](https://github-readme-stats.vercel.app/api/pin/?username=JHJH1289&repo=jhdrve&theme=tokyonight&hide_border=true)](https://github.com/JHJH1289/jhdrve)
+[![travelog](https://github-readme-stats.vercel.app/api/pin/?username=JHJH1289&repo=PKNU_2026_toyProject2&theme=tokyonight&hide_border=true)](https://github.com/JHJH1289/PKNU_2026_toyProject2)
 
-외부공연 홍보용 프로젝트입니다.
-
-- HTML, CSS, JavaScript
-- 공연 정보 소개와 GitHub Pages 배포 경험
-
-## Portfolio Site
-
-이 저장소에는 React + Vite 기반 포트폴리오 사이트도 포함되어 있습니다.
-
-```bash
-npm install
-npm run dev
-```
-
-```bash
-npm run build
-npm run lint
-```
+</div>
